@@ -1,6 +1,6 @@
 ### Olá, eu sou o Eduard! 👋
 
-## Sobre mim
+# About me
 <div>
     <a href="https://github.com/EduardTeixeira">
         <img height="180em"
